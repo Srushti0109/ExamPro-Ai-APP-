@@ -2,6 +2,18 @@
 
 ExamPro AI is a modern online examination platform built with Next.js and React, designed to provide a seamless digital assessment experience. The platform enables users to browse available exams, take assessments, view results, track performance analytics, and manage their profiles through an intuitive interface.
 
+## Android Application
+
+📱 Download the latest APK from the Releases section:
+
+- [Download ExamPro AI APK](../../releases)
+
+### Installation
+1. Download the APK.
+2. Open the file on your Android device.
+3. Allow installation from unknown sources if prompted.
+4. Install and launch ExamPro AI.
+
 Logo: 
 
 <img width="720" height="675" alt="image" src="https://github.com/user-attachments/assets/f906f63a-d91b-4375-a605-08191d43bc4b" />
